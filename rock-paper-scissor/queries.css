@@ -1,0 +1,15 @@
+@media (max-width: 27em) {
+  img {
+    width: 4rem;
+  }
+}
+@media (max-width: 24em) {
+  img {
+    width: 3rem;
+  }
+}
+@media (max-width: 21em) {
+  img {
+    width: 2rem;
+  }
+}
